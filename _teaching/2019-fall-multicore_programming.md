@@ -4,6 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-fall-multicore_programming
 venue: "Sungkyunkwan University, College of Computing"
+paperurl: 'http://dicl.skku.edu/class/fall2019/multicore/'
 date: 2019-09-01
 location: "Suwon, South Korea"
 ---
