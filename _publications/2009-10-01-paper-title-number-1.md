@@ -5,7 +5,7 @@ permalink: /publication/b3tree
 excerpt: ''
 date: 2020-07-01
 venue: 'ACM Transactoins on Storage (TOS), Vol. 16, Issue 3, Article 17, (ISSN 1553-3077)'
-paperurl: [doi]('https://dl.acm.org/doi/10.1145/3394025')
+paperurl: 'https://dl.acm.org/doi/10.1145/3394025'
 citation: 'Hokeun Cha, Moohyeon Nam, Kibeom Jin, Jiwon Seo, Beomseok Nam.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
