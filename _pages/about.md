@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Profile"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,18 +10,20 @@ redirect_from:
 
 I am Hokeun Cha, a prospective Ph.D. stduent in Computer Sciences at University of Wisconsin-Madison (starting from Spring semester 2021). I am currently working as a researcher in Data-Intensive Computing Laboratory (DICL) at Sungkyunkwan University. I received my M.S. in Electrical and Computer Engineering at Sungkyunkwan University under the supervision of Professor Beomseok Nam in 2020, and bachelor's degrees in Computer Engineering and Business Administration at Sungkyunkwan University in 2018. For details, please refer to my [CV](https://github.com/cv.md).
 
+
 Research Interests
 ======
 My research interests include data-intensive systems, storage systems, database systems, and distributed systems. In particular, I am passionate about projects that accelerate performance of systems with new hardware such as Non-Volatile Memory (NVM), and Remote Direct Memory Access (RDMA).
 
+
 Education
 ======
-* **University of Wisconsin-Madison**, Ph.D. student in Computer Sciences, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __starting from 2021__
-* **Sungkyunkwan University**, M.S. in Electrical and Computer Engineering, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __2018-2020__
-* **Sungkyunkwan University**, B.S. in Computer Engineering, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __2012-2018__
-* **Sungkyunkwan Univeristy**, B.B.A. in Business Administration, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __2012-2018_
+* **University of Wisconsin-Madison**, Ph.D. student in Computer Sciences, *2021 (expected)*
+* **Sungkyunkwan University**, M.S. in Electrical and Computer Engineering, *2018-2020*
+* **Sungkyunkwan University**, B.S. in Computer Engineering, *2012-2018*
+* **Sungkyunkwan Univeristy**, B.B.A. in Business Administration, *2012-2018*
 
-\\<!--
+!!!
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
@@ -44,4 +46,5 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. 
+!!!
