@@ -13,7 +13,7 @@ I am Hokeun Cha, a prospective Ph.D. stduent in Computer Sciences at University 
 
 Research Interests
 ------
-My research interests include data-intensive systems, storage systems, database systems, and distributed systems. In particular, I am highly interested in designing and implementing system software for new hardware such as Non-Volatile Memory (NVM) and Remote Direct Memory Access (RDMA).
+My research interests include data-intensive systems, storage systems, database systems, and distributed systems. In particular, I am highly interested in designing and implementing system software for new hardware such as Non-Volatile Memory (NVM). I am also passionate about projects that accelerate overall performance of systems by combining state-of-the-art technologies such as Remote Direct Memory Access (RDMA).
 
 
 Education
