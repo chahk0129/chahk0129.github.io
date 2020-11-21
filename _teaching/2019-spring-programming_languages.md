@@ -4,6 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-spring-programming_languages
 venue: "Sungkyunkwan University, College of Computing"
+paperurl: 'http://dicl.skku.edu/class/spring2019/pl'
 date: 2019-03-01
 location: "Suwon, South Korea"
 ---
