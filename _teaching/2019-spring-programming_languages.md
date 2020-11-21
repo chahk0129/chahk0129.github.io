@@ -1,7 +1,7 @@
 ---
 title: "Programming Languages"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 permalink: /teaching/2019-spring-programming_languages
 venue: "Sungkyunkwan University, College of Computing"
 date: 2019-03-01

@@ -1,7 +1,7 @@
 ---
 title: "Multicore Programming"
 collection: teaching
-type: "Undergraduate Course"
+type: "Teaching Assistant"
 permalink: /teaching/2019-fall-multicore_programming
 venue: "Sungkyunkwan University, College of Computing"
 date: 2019-09-01
