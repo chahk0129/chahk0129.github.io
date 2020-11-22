@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hokeun Cha"
   avatar           : "photo2.jpeg" #"profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : #"Your biography for the left-hand sidebar"
+  location         : "Seoul, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/chahg0129"
   foursquare       :
   github           : "https://www.github.com/chahk0129"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/hokeun.cha"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
