@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hokeun Cha, a prospective Ph.D. stduent in Computer Sciences at University of Wisconsin-Madison (starting from Spring semester 2021). I am currently working as a researcher in Data-Intensive Computing Laboratory (DICL) at Sungkyunkwan University. I received my M.S. in Electrical and Computer Engineering at Sungkyunkwan University under the supervision of Professor Beomseok Nam in 2020, and bachelor's degrees in Computer Engineering and Business Administration at Sungkyunkwan University in 2018. For details, please refer to my [CV](https://github.com/chahk0129/chahk0129.github.io/files/CV_HokeunCha.pdf).
+I am Hokeun Cha, a prospective Ph.D. stduent in Computer Sciences at University of Wisconsin-Madison (starting from Spring semester 2021). I am currently working as a researcher in Data-Intensive Computing Laboratory (DICL) at Sungkyunkwan University. I received my M.S. in Electrical and Computer Engineering at Sungkyunkwan University under the supervision of Professor Beomseok Nam in 2020, and bachelor's degrees in Computer Engineering and Business Administration at Sungkyunkwan University in 2018. For details, please refer to my [CV](https://chahk0129.github.io/files/CV_HokeunCha.pdf).
 
 
 Research Interests
