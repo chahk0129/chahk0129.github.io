@@ -1,5 +1,5 @@
 ---
-title: "Multicore Programming"
+title: "Multicore Computing"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-fall-multicore_programming
