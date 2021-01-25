@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hokeun Cha, a first-year Ph.D stduent in Computer Sciences Department at University of Wisconsin-Madison. Before joining UW-Madison, I worked as a researcher at Sungkyunkwan University. I received my M.S. in Electrical and Computer Engineering at Sungkyunkwan University under the supervision of Prof. Beomseok Nam in 2020, and bachelor's degrees in Computer Engineering and Business Administration at Sungkyunkwan University in 2018. For details, please refer to my [CV](https://chahk0129.github.io/files/cv.pdf).
+I am Hokeun Cha, a first-year Ph.D stduent in Computer Sciences Department at University of Wisconsin-Madison. I am currently working with Prof. Xiangyao Yu. Before joining UW-Madison, I worked as a researcher at Sungkyunkwan University. I received my M.S. in Electrical and Computer Engineering at Sungkyunkwan University under the supervision of Prof. Beomseok Nam in 2020, and bachelor's degrees in Computer Engineering and Business Administration at Sungkyunkwan University in 2018. For details, please refer to my [CV](https://chahk0129.github.io/files/cv.pdf).
 
 
 Research Interests
