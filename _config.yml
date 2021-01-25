@@ -83,23 +83,23 @@ author:
   name             : "Hokeun Cha"
   avatar           : "photo2.jpeg" #"profile.png"
   bio              : " " #"Your biography for the left-hand sidebar"
-  location         : "Seoul, South Korea"
+  location         : "Madison, WI, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=ko&user=700Jw98AAAAJ&view_op=list_works&gmla=AJsN-F5F0Igq691JN-uZDK-6XbCnbLKWgDaCbgXOlHNjTJlLSMy7amRDPwIwslI6MXE7bkBrqK2Kn2rqSE64ULEPM6sGHfCJrBUAGgNzireNiixVLt8YT5"
-  email            : "chahk0129@gmail.com"
+  email            : "hcha@cs.wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "chahg0129"
+  facebook         :
   foursquare       :
   github           : "chahk0129"
   google_plus      :
   keybase          :
-  instagram        : "hokeun.cha"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
