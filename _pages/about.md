@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D stduent in the Department of Computer Science at the the University of Wisconsin-Madison. 
-I am advised by [Prof. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/) and [Prof. Aditya Akella](https://www.cs.utexas.edu/people/faculty-researchers/aditya-akella). 
+I am advised by [Prof. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/), and I am also closely working with [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/). 
 Before joining UW-Madison, I worked as a researcher at Sungkyunkwan University. 
 I received my M.S. in Electrical and Computer Engineering under the supervision of [Prof. Beomseok Nam](http://dicl.skku.edu/~bnam/) in 2020, 
 and bachelor's degrees in Computer Science and Engineering, and Business Administration in 2018, all at Sungkyunkwan University. For details, please refer to my [CV](files/cv.pdf).
@@ -17,7 +17,7 @@ and bachelor's degrees in Computer Science and Engineering, and Business Adminis
 
 Research Interests
 ------
-My research interests include data-intensive systems. In particular, I am highly interested in leveraging overall system performance using advanced technologies.
+My research interests include data-intensive systems. In particular, I am highly interested in leveraging system performance using new hardware and advanced technologies.
 
 
 
@@ -28,7 +28,7 @@ Experience
     <p style="float: left;"><img src="images/intel.png" width="80"></p>
     <p>
         &nbsp;<b> Software Engineer Intern</b><br>
-        &nbsp; Intel Corp., MTC, Hillsboro, OR, USA<br>
+        &nbsp; Intel Corp., DataPlatforms Future Technology Team, Hillsboro, OR, USA<br>
         &nbsp;<em> Summer 2022</em>
    </p>
 </div>
