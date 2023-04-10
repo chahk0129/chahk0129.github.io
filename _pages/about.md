@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D stduent in the Department of Computer Science at the the University of Wisconsin-Madison. 
-I am advised by [Prof. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/), and I am also closely working with [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/). 
+I am advised by [Prof. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/), and closely working with [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/). 
 Before joining UW-Madison, I worked as a researcher at Sungkyunkwan University. 
 I received my M.S. in Electrical and Computer Engineering under the supervision of [Prof. Beomseok Nam](http://dicl.skku.edu/~bnam/) in 2020, 
 and bachelor's degrees in Computer Science and Engineering, and Business Administration in 2018, all at Sungkyunkwan University. For details, please refer to my [CV](files/cv.pdf).

@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b><font color="cadetblue">Blink-hash: An Adaptive Hybrid Index for In-Memory Time-Series Databases</font></b><br>
+<b>[<font color="cadetblue">Blink-hash: An Adaptive Hybrid Index for In-Memory Time-Series Databases</font>](https://www.vldb.org/pvldb/vol16/p1235-cha.pdf)</b><br>
 <b>Hokeun Cha</b>, Xiangpeng Hao, Tianzheng Wang, Huanchen Zhang, Aditya Akella, Xiangyao Yu<br>
-Proceedings of the VLDB Endowment (<b>VLDB</b>, To appear).<br>
+Proceedings of the <b>VLDB</b> Endowment, 2023.<br> \[[code](https://github.com/chahk0129/Blink-hash)\]
 
 <b>[<font color="cadetblue">Pivotal B+tree for Byte-Addressable Persistent Memory</font>](https://ieeexplore.ieee.org/document/9764757)</b><br>
 Jonghyeon Yoo, <b>Hokeun Cha</b>, Wonbae Kim, Wook-Hee Kim, Sung-Soon Park, and Beomseok Nam<br>
@@ -19,4 +19,4 @@ ACM Transactions on Storage (<b>TOS</b>), Vol. 16, No. 3, Article 17, 2020.<br>
 
 <b>[<font color="cadetblue">Write-Optimized Dynamic Hashing for Persistent Memory</font>](https://www.usenix.org/system/files/fast19-nam.pdf)</b><br>
 Moohyeon Nam, <b>Hokeun Cha</b>, Young-ri Choi, Sam H. Noh, and Beomseok Nam<br>
-Proceedings of the 17th USENIX Conference on File and Storage Technologies (<b>FAST</b>), Boston, MA, Feb. 2019 \[[slide](https://www.usenix.org/sites/default/files/conference/protected-files/fast19_slides_nam.pdf)\]\[[code](https://github.com/DICL/CCEH)\].
+Proceedings of the 17th USENIX Conference on File and Storage Technologies (<b>FAST</b>), Boston, MA, Feb. 2019.<br> \[[slide](https://www.usenix.org/sites/default/files/conference/protected-files/fast19_slides_nam.pdf)\] \[[code](https://github.com/DICL/CCEH)\]
