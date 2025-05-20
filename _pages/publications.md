@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[<font color="cadetblue">Disaggregated Memory for File-backed Pages</font>]()</b><br>
+Deagyu Han, Jaeyoon Nam, <b>Hokeun Cha</b>, Changdae Kim, Kwangwon Koh, Taehoon Kim, Sang-Hoon Kim, <br> Beomseok Nam<br>
+ACM Transactions on Storage (<b>TOS</b>) <i>, to appear</i>.<br>
+
 <b>[<font color="cadetblue">Towards Accelerating Data Intensive Application’s Shuffle Process Using SmartNICs</font>](https://dl.acm.org/doi/abs/10.1145/3589980)</b><br>
 Jiaxin Lin, Tao Ji, Xiangpeng Hao, <b>Hokeun Cha</b>, Yanfang Le, Xiangyao Yu, Aditya Akella<br>
 Proceedings of the ACM on Measurement and Analysis of Computing Systems (<b>SIGMETRICS</b>), June 2023.<br>

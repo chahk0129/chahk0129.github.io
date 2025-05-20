@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,28 +8,48 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D stduent in the Department of Computer Science at the the University of Wisconsin-Madison. 
-I am advised by [Prof. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/), and closely working with [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/). 
-Before joining UW-Madison, I worked as a researcher at Sungkyunkwan University. 
-I received my M.S. in Electrical and Computer Engineering under the supervision of [Prof. Beomseok Nam](http://dicl.skku.edu/~bnam/) in 2020, 
-and bachelor's degrees in Computer Science and Engineering, and Business Administration in 2018, all at Sungkyunkwan University. 
-For details, please refer to my [CV](files/cv.pdf).
+I am a Ph.D stduent in the Department of Computer Science at the the University of Wisconsin-Madison, where I am advised by [Prof. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/).
+Prior to this, I obtained my Master's degree in Electrical and Computer Engineering under the supervision of [Prof. Beomseok Nam](http://dicl.skku.edu/~bnam/) in 2020, and Bachelor's degrees in Computer Science Engineering and Business Administration in 2018, all from Sungkyunkwan University.
+
 
 
 Research Interests
 ------
-My research interests include data-intensive systems. In particular, I am highly interested in leveraging system performance using new hardware and advanced technologies.
+I am broadly interested in data systems, with a focus on leveraging new hardware and emerging technologies.
+My research primarily centers on core database techniques.
 
+For details, please refer to my [CV](files/cv.pdf).
+
+<!---
+News
+------
+<b><span style="color:#666666">\[May. 2025\]</span></b> Excited to start my internship at [Microsoft Gray Systems Lab (GSL)](https://www.microsoft.com/en-us/research/group/gray-systems-lab/)! \\
+<b><span style="color:#666666">\[Jun. 2023\]</span></b> SmartShuffle got accepted to [SIGMETRICS 2023](https://www.sigmetrics.org/sigmetrics2023/)! \\
+<b><span style="color:#666666">\[Feb. 2023\]</span></b> Blink-hash got accepted to [VLDB 2023](https://vldb.org/2023/)! \\
+<b><span style="color:#666666">\[Jan. 2021\]</span></b> Started my PhD journey at UW-Madison with CS Departmental Scholarship! \\
+<b><span style="color:#666666">\[Aug. 2020\]</span></b> Graduated from my Master's program at SKKU! \\
+<b><span style="color:#666666">\[Aug. 2020\]</span></b> B3-tree got accepted to [TOS](https://dl.acm.org/journal/tos)! \\
+<b><span style="color:#666666">\[Feb. 2019\]</span></b> CCEH got accepted to [FAST 2019](https://www.usenix.org/conference/fast19)!
+--->
 
 
 Experience
 ------
 
 <div>
+    <p style="float: left;"><img src="images/ms.png" width="80"></p>
+    <p>
+        &nbsp;<b> Research Intern</b><br>
+        &nbsp; Microsoft, Gray Systems Lab (GSL), Redmond, WA<br>
+        &nbsp;<em> Summer 2025</em>
+   </p>
+</div>
+
+<div>
     <p style="float: left;"><img src="images/intel.png" width="80"></p>
     <p>
         &nbsp;<b> Software Engineer Intern</b><br>
-        &nbsp; Intel Corp., DataPlatforms Future Technology Team, Hillsboro, OR, USA<br>
+        &nbsp; Intel, DataPlatforms Future Technology Team, Hillsboro, OR<br>
         &nbsp;<em> Summer 2022</em>
    </p>
 </div>
@@ -38,7 +58,7 @@ Experience
     <p style="float: left;"><img src="images/uwmadison.jpg" width="80"></p>
     <p>
         &nbsp;<b>Research Assistant</b><br>
-        &nbsp;UW-Madison, Database Group, Madison, WI, USA<br>
+        &nbsp;UW-Madison, Database Group, Madison, WI<br>
         &nbsp;<em> May. 2021 - Present</em>
     </p>
 </div>
@@ -60,7 +80,7 @@ Experience
         &nbsp;<em> Sep. 2018 - Aug. 2020</em>
     </p>
 </div>
-
+<!---
 <div>
     <p style="float: left;"><img src="images/shinhan.jpeg" width="80"></p>
     <p>
@@ -78,3 +98,4 @@ Experience
         &nbsp;<em> Nov. 2012 - Jun. 2013</em>
     </p>
 </div>
+--->

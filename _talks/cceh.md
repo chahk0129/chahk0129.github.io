@@ -2,7 +2,7 @@
 title: "Write-Optimized Dynamic Hashing for Persistent Memory"
 collection: talks
 type: "Invited Talk"
-permalink: /talks/2019-ksc
+permalink: /talks/cceh
 venue: "Korea Software Conference (KSC)"
 paperurl: 'http://www.kiise.or.kr/conference/KSC/2019/'
 date: 2019-12-20
