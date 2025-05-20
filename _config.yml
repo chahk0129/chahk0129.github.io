@@ -82,7 +82,6 @@ analytics:
 author:
   name             : "Hokeun Cha"
   avatar           : "photo3.jpg" #"profile.png"
-#  avatar           : "photo3.jpeg" #"profile.png"
   bio              : " " #"Your biography for the left-hand sidebar"
   location         : "Madison, WI, USA"
   employer         :
