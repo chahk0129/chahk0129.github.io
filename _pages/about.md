@@ -49,7 +49,8 @@ Experience
 </div>
 
 <div>
-    <p style="float: left;"><img src="images/ms.png" width="80"></p>
+    <p style="float: left;"><img src="images/gsl.jpg" width="80"></p>
+    <!-- <p style="float: left;"><img src="images/ms.png" width="80"></p> -->
     <p>
         &nbsp;<b> Research Intern</b><br>
         &nbsp; Microsoft, Gray Systems Lab (GSL), Redmond, WA<br>
