@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D stduent in the Department of Computer Science at the the University of Wisconsin-Madison, where I am advised by [Prof. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/).
+I am a Ph.D student in the Department of Computer Science at the the University of Wisconsin-Madison, where I am advised by [Prof. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/).
 Prior to this, I obtained my Master's degree in Electrical and Computer Engineering under the supervision of [Prof. Beomseok Nam](http://dicl.skku.edu/~bnam/) in 2020, and Bachelor's degrees in Computer Science Engineering and Business Administration in 2018, all from Sungkyunkwan University.
 
 
 
 Research Interests
 ------
-I am broadly interested in data systems, with a focus on leveraging new hardware and emerging technologies.
-My research primarily centers on core database techniques.
+I am broadly interested in data systems, with a focus on modern system architectures such as time-series databases and disaggregated databases.
+My research primarily centers on core database techniques in transaction processing including indexing and concurrency control, as well as HW-SW co-design for next-generation data systems leveraging emerging technologies such as RDMA, SmartNIC, CXL memory, and byte-addressable storage.
+
+<!-- I am broadly interested in data systems, with a focus on leveraging new hardware and emerging technologies.
+My research primarily centers on core database techniques in transaction processing such as indexing and concurrency control. -->
 
 For details, please refer to my [CV](files/cv.pdf).
 
@@ -40,6 +43,15 @@ Experience
     <p style="float: left;"><img src="images/ms.png" width="80"></p>
     <p>
         &nbsp;<b> Research Intern</b><br>
+        &nbsp; Microsoft Research, Data Systems Group, Redmond, WA<br>
+        &nbsp;<em> Summer 2026</em>
+   </p>
+</div>
+
+<div>
+    <p style="float: left;"><img src="images/ms.png" width="80"></p>
+    <p>
+        &nbsp;<b> Research Intern</b><br>
         &nbsp; Microsoft, Gray Systems Lab (GSL), Redmond, WA<br>
         &nbsp;<em> Summer 2025</em>
    </p>
@@ -49,7 +61,7 @@ Experience
     <p style="float: left;"><img src="images/intel.png" width="80"></p>
     <p>
         &nbsp;<b> Software Engineer Intern</b><br>
-        &nbsp; Intel, DataPlatforms Future Technology Team, Hillsboro, OR<br>
+        &nbsp; Intel, Data Platforms Future Technology Team, Hillsboro, OR<br>
         &nbsp;<em> Summer 2022</em>
    </p>
 </div>
@@ -67,7 +79,7 @@ Experience
     <p style="float: left;"><img src="images/skku.png" width="80"></p>
     <p>
         &nbsp;<b>Researcher</b><br>
-        &nbsp;Sungkyunkwan University, Convergence Research Institute, Suwon, South Korea<br>
+        &nbsp;Sungkyunkwan University, Convergence Research Institute, South Korea<br>
         &nbsp;<em> Sep. 2020 - Dec. 2020</em>
     </p>
 </div>
@@ -76,7 +88,7 @@ Experience
     <p style="float: left;"><img src="images/skku.png" width="80"></p>
     <p>
         &nbsp;<b>Research Assistant</b><br>
-        &nbsp;Sungkyunkwan University, Data-Intensive Computing Lab., Suwon, South Korea<br>
+        &nbsp;Sungkyunkwan University, Data-Intensive Computing Lab., South Korea<br>
         &nbsp;<em> Sep. 2018 - Aug. 2020</em>
     </p>
 </div>
