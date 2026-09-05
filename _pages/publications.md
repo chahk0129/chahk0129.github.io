@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[<font color="cadetblue">Two-Sided RDMA Striking Back for Disaggregated Memory Databases</font>](https://arxiv.org/abs/2607.26227)</b><br>
+<b>Hokeun Cha</b>, Aditya Akella, Xiangyao Yu<br>
+arXiv preprint, August, 2026.<br>
+
 <b>[<font color="cadetblue">Disaggregated Memory for File-backed Pages</font>](https://dl.acm.org/doi/10.1145/3736585)</b><br>
 Deagyu Han, Jaeyoon Nam, <b>Hokeun Cha</b>, Changdae Kim, Kwangwon Koh, Taehoon Kim, Sang-Hoon Kim, <br> Beomseok Nam<br>
 ACM Transactions on Storage (<b>TOS</b>), November 2025.<br>
